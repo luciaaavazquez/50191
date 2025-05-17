@@ -1,0 +1,4 @@
+inicio edad {
+    edad = 20 + 3 ;
+    imprimir ("Tenes," + edad + "años.");
+}

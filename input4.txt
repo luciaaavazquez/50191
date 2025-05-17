@@ -1,0 +1,3 @@
+programa saludo 
+    nombre = 5 + 3;
+  imprimir("Hola," + nombre + "!");
